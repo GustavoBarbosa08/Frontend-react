@@ -1,0 +1,25 @@
+header{
+    background-color: #000;
+    height: 50px;
+}
+
+.itemMenu{
+    text-decoration: none;
+    color: #ff0000;
+}
+.itemMenu:hover{
+    color: #ffffff;
+    transition: 1s;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+
+}
+
+nav{
+    height: 100%;
+}
